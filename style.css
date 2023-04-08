@@ -1,3 +1,16 @@
 body{
     background-color: red;
 }
+.h1-color-change{
+    color: green;
+    background-color: blue;
+    text-align: center;
+
+}
+.h1-color-change:hover{
+    color: white;
+}
+.image-alignment{
+    display: flex;
+    justify-content: center;
+}
